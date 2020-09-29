@@ -2,6 +2,8 @@
 #include<iostream>
 #include<iomanip>
 using namespace std;
+
+
 int main(){
     char c[30]="this is string";
     double d=-1234.8976;
